@@ -20,6 +20,7 @@ h1{
 .headerBlock{
     display: inline-block;
     width:30%;
+    margin-left: auto;
     
     
 }
@@ -32,4 +33,66 @@ img{
 ul{
     font-size: 20px;
     
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+#mail{
+    list-style-image : url("../images/nouvelle-enveloppe-de-courrier-electronique.png");
+    color: white;
+
+}
+
+#adresse{
+    list-style-image : url("../images/accueil.png");
+    color: white;
+
+}
+#annif{
+    list-style-image : url("../images/cake.png");
+    color: white;
+
+}
+#permis{
+    list-style-image : url("../images/voiture-ecologique.png");
+    color: white;
+
+}
+#tel{
+    list-style-image : url("../images/telephone-intelligent.png");
+    color: white;
+
+}
+
+/*body du cv*/
+
+.corps{
+    display: inline-block;
+    margin: 5%;
+    width: 33%;
+}
+
+body{
+   
+    width: auto;
+}
+
+h2{
+    color: violet;
+}
+
+.reseaux{
+    color: blue;
+}
+
+#reseauxSociaux1{
+    color: blue;
+    list-style-image : url("../images/logo-git.png");
+}
+
+#reseauxSociaux2{
+    
+    list-style-image : url("../images/linkedin.png");
 }
