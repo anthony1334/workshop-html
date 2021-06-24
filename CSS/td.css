@@ -1,0 +1,23 @@
+
+
+h1{
+    text-align: center;
+    font-variant-caps: small-caps;
+}
+
+p{
+    margin-right: 50%;
+    text-indent:5% ;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+h3{
+    font-style: italic;
+}
+
+div{
+    margin-left: 20px;
+}
