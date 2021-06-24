@@ -1,0 +1,35 @@
+div{
+
+flex-direction: row;
+}
+
+.header{
+    background-color: #3b5998 ;
+}
+
+h1{
+    color: white;
+    font-size: 50px;
+}
+
+#presentation{
+    margin-right: 30%;
+    font-size: 20px;
+}
+
+.headerBlock{
+    display: inline-block;
+    width:30%;
+    
+    
+}
+
+img{
+    margin-left: 10%;
+    border-radius: 100px;
+    margin-bottom: 5%;
+}
+ul{
+    font-size: 20px;
+    
+}
