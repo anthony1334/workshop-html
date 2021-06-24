@@ -1,0 +1,51 @@
+
+
+body{
+    font-family: Helvetica, Arial;
+    background-color: #000099;
+    
+    
+}
+
+/* Block*/
+div{
+    margin: 10%;
+}
+
+/*Titre*/
+h1{
+    text-align: center;
+    color: antiquewhite;
+    margin: 3%;
+}
+
+/*Liste*/
+#ligne1,#ligne2,#ligne3{
+    text-align: center;
+    list-style-type: none;
+    border: solid 1px ;
+    margin: 10px;
+    padding: 5px;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    
+}
+
+/*Formulaire*/
+form{
+    text-align: center;
+    
+}
+
+/* Champ de saisie*/
+input{
+    border-radius: 3px;
+   margin: 10px;
+    padding: 5px;
+}
+
+/* Boutto de validation
+.button{
+    border-radius: 8px;
+}
+
